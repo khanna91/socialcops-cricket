@@ -78,6 +78,17 @@
 		</div><!-- /.modal -->
 
 		<script src="./js/vendor.min.js"></script>
+		<script>
+			window.paceOptions = {
+			    document: true, // disabled
+			    eventLag: true,
+			    restartOnPushState: true,
+			    restartOnRequestAfter: true,
+			    ajax: {
+			        trackMethods: [ 'POST','GET'],
+			    }
+			};
+		</script>
 		<script src="./js/all.min.js"></script>
 	</body>
 </html>

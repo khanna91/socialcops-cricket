@@ -210,5 +210,33 @@
 [x-ng-cloak],
 .ng-cloak,
 .x-ng-cloak {
-  display: none !important;
+    display: none !important;
+}
+
+.pace .pace-progress {
+    background: #10cfbd;
+    height: 3px;
+}
+.pace .pace-progress-inner {
+    box-shadow: none;
+}
+.pace .pace-activity {
+    -webkit-animation: none;
+    animation: none;
+    top: 73px;
+    background: url('../images/progress-primary.svg') no-repeat top left;
+    background-size: 100% auto;
+    margin: 0 auto;
+    border-width: 0;
+    border-radius: 0;
+    width: 28px;
+    height: 40px;
+    right: 19px;
+}
+
+body.pace-running .pace-container-lg {
+    opacity: 0;
+}
+body.pace-done .pace-container-lg {
+    opacity: 1;
 }
