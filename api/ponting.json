@@ -1,0 +1,110 @@
+{
+	"name" : "Ricky Ponting",
+	"country" : "Australia",
+	"basic" : {
+		"born" : "Dec 19, 1974 (41 years)",
+		"birth place" : "Launceston, Tasmania",
+		"nickname" : "Ponting",
+		"height" : "5 ft 8 in",
+		"role" : "Batsman",
+		"batting style" : "Right Handed Bat",
+		"bowling style" : "Right-arm medium"
+	},
+	"bio" : "<p>There are so many things that Sachin Tendulkar is to so many people, that it is sometimes forgotten that he is first and foremost a batsman of unparalleled ability, dedication and mind. If he had taken to some other sport in early childhood, his persona would have been invented -- by coaches who want to teach their wards the virtues a tight technique that allows attacking shots, by film-makers who want to create celluloid fantasy by depicting the perfect batsman and superstar, by marketing men who want to appeal to the broadest strata of public imaginable and by cricket fanatics who want to see batting perfection embodied in one person.</p><p>Tendulkar has been in the spotlight since before he made his international debut, and has conducted himself in exemplary fashion, even though he has been India's biggest news-worthy item for two decades. His debut in 1989 was a fiery introduction to international cricket, when as a 16 year old he had to face up to the might of Wasim Akram, Imran Khan and Waqar Younis in their backyard.</p><p>Since then he has gone on to amass records by the dozens, a few of which are unlikely to be surpassed during his lifetime. He has the most number of runs in Test matches as well as One Day Internationals, and the most number of centuries in both forms as well. His tally of more than 30,000 international runs is not likely to be overtaken by anyone, as is his list of international centuries. He has become the only man in history to get to 100 international centuries, a mind boggling achievement comparable to Don Bradman's career average of 99.94. In his career that has spanned over two decades, he has achieved almost everything as an individual and has also been part of innumerable team successes, including a World Cup win in 2011.</p>",
+	"profile_pic" : "images/players/ponting-profile.jpg",
+	"cover_pic" : "images/players/ponting-cover.jpg",
+	"batting_summary" : {
+		"Tests" : {
+			"m" : 168,
+			"inn" : 287,
+			"no" : 29,
+			"runs" : 13378,
+			"hs" : 257,
+			"avg" : 51.85,
+			"bf" : 22782,
+			"sr" : 58.72,
+			"_100" : 41,
+			"_200" : 6,
+			"_50" : 62,
+			"_4" : 1509,
+			"_6" : 73,
+			"st" : 0
+		},
+		"ODI" : {
+			"m" : 375,
+			"inn" : 365,
+			"no" : 39,
+			"runs" : 13704,
+			"hs" : 164,
+			"avg" : 42.04,
+			"bf" : 17046,
+			"sr" : 80.38,
+			"_100" : 30,
+			"_200" : 0,
+			"_50" : 82,
+			"_4" : 1231,
+			"_6" : 162,
+			"st" : 0
+		},
+		"T20I" : {
+			"m" : 17,
+			"inn" : 16,
+			"no" : 2,
+			"runs" : 401,
+			"hs" : 98,
+			"avg" : 28.64,
+			"bf" : 302,
+			"sr" : 132.78,
+			"_100" : 0,
+			"_200" : 0,
+			"_50" : 2,
+			"_4" : 41,
+			"_6" : 11,
+			"st" : 0
+		},
+		"IPL" : {
+			"m" : 10,
+			"inn" : 9,
+			"no" : 0,
+			"runs" : 91,
+			"hs" : 28,
+			"avg" : 10.11,
+			"bf" : 128,
+			"sr" : 71.09,
+			"_200" : 0,
+			"_100" : 0,
+			"_50" : 0,
+			"_4" : 5,
+			"_6" : 2,
+			"st" : 0
+		}
+	},
+	"bowling_summary" : {
+		"Tests" : {
+			"m" : 168,
+			"inn" : 36,
+			"b" : 587,
+			"runs" : 276,
+			"wkts" : 5,
+			"bbi" : "0/1",
+			"bbm" : "0/1",
+			"ecom" : 2.85,
+			"avg" : 55.2,
+			"sr" : 119.4,
+			"w5" : 0
+		},
+		"ODI" : {
+			"m" : 375,
+			"inn" : 6,
+			"b" : 150,
+			"runs" : 104,
+			"wkts" : 3,
+			"bbi" : "12/1",
+			"bbm" : "12/1",
+			"ecom" : 4.16,
+			"avg" : 34.67,
+			"sr" : 50,
+			"w5" : 0
+		}
+	}
+}

@@ -1,0 +1,110 @@
+{
+	"name" : "Rahul Dravid",
+	"country" : "India",
+	"basic" : {
+		"born" : "Jan 11, 1973 (43 years)",
+		"birth place" : "Indore, Madhya Pradesh",
+		"nickname" : "Dravid",
+		"height" : "5 ft 8 in",
+		"role" : "Batsman",
+		"batting style" : "Right Handed Bat",
+		"bowling style" : "Right-arm offbreak"
+	},
+	"bio" : "<p>There are so many things that Sachin Tendulkar is to so many people, that it is sometimes forgotten that he is first and foremost a batsman of unparalleled ability, dedication and mind. If he had taken to some other sport in early childhood, his persona would have been invented -- by coaches who want to teach their wards the virtues a tight technique that allows attacking shots, by film-makers who want to create celluloid fantasy by depicting the perfect batsman and superstar, by marketing men who want to appeal to the broadest strata of public imaginable and by cricket fanatics who want to see batting perfection embodied in one person.</p><p>Tendulkar has been in the spotlight since before he made his international debut, and has conducted himself in exemplary fashion, even though he has been India's biggest news-worthy item for two decades. His debut in 1989 was a fiery introduction to international cricket, when as a 16 year old he had to face up to the might of Wasim Akram, Imran Khan and Waqar Younis in their backyard.</p><p>Since then he has gone on to amass records by the dozens, a few of which are unlikely to be surpassed during his lifetime. He has the most number of runs in Test matches as well as One Day Internationals, and the most number of centuries in both forms as well. His tally of more than 30,000 international runs is not likely to be overtaken by anyone, as is his list of international centuries. He has become the only man in history to get to 100 international centuries, a mind boggling achievement comparable to Don Bradman's career average of 99.94. In his career that has spanned over two decades, he has achieved almost everything as an individual and has also been part of innumerable team successes, including a World Cup win in 2011.</p>",
+	"profile_pic" : "images/players/dravid-profile.jpg",
+	"cover_pic" : "images/players/dravid-cover.jpg",
+	"batting_summary" : {
+		"Tests" : {
+			"m" : 164,
+			"inn" : 286,
+			"no" : 32,
+			"runs" : 13288,
+			"hs" : 270,
+			"avg" : 52.31,
+			"bf" : 31258,
+			"sr" : 42.51,
+			"_100" : 36,
+			"_200" : 5,
+			"_50" : 63,
+			"_4" : 1655,
+			"_6" : 21,
+			"st" : 0
+		},
+		"ODI" : {
+			"m" : 344,
+			"inn" : 318,
+			"no" : 40,
+			"runs" : 10889,
+			"hs" : 153,
+			"avg" : 39.17,
+			"bf" : 15284,
+			"sr" : 71.24,
+			"_100" : 12,
+			"_200" : 0,
+			"_50" : 83,
+			"_4" : 950,
+			"_6" : 42,
+			"st" : 14
+		},
+		"T20I" : {
+			"m" : 1,
+			"inn" : 1,
+			"no" : 0,
+			"runs" : 31,
+			"hs" : 31,
+			"avg" : 31,
+			"bf" : 21,
+			"sr" : 147.62,
+			"_100" : 0,
+			"_200" : 0,
+			"_50" : 0,
+			"_4" : 3,
+			"_6" : 0,
+			"st" : 0
+		},
+		"IPL" : {
+			"m" : 89,
+			"inn" : 82,
+			"no" : 5,
+			"runs" : 2174,
+			"hs" : 75,
+			"avg" : 28.23,
+			"bf" : 1882,
+			"sr" : 115.52,
+			"_200" : 0,
+			"_100" : 0,
+			"_50" : 11,
+			"_4" : 269,
+			"_6" : 28,
+			"st" : 0
+		}
+	},
+	"bowling_summary" : {
+		"Tests" : {
+			"m" : 164,
+			"inn" : 5,
+			"b" : 120,
+			"runs" : 39,
+			"wkts" : 1,
+			"bbi" : "18/1",
+			"bbm" : "18/1",
+			"ecom" : 1.95,
+			"avg" : 39,
+			"sr" : 120,
+			"w5" : 0
+		},
+		"ODI" : {
+			"m" : 344,
+			"inn" : 8,
+			"b" : 186,
+			"runs" : 170,
+			"wkts" : 4,
+			"bbi" : "43/2",
+			"bbm" : "43/2",
+			"ecom" : 5.48,
+			"avg" : 42.5,
+			"sr" : 46.6,
+			"w5" : 0
+		}
+	}
+}

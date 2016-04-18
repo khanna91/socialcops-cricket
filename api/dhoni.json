@@ -1,0 +1,110 @@
+{
+	"name" : "MS Dhoni",
+	"country" : "India",
+	"basic" : {
+		"born" : "July 07, 1981 (34 years)",
+		"birth place" : "Ranchi, India",
+		"nickname" : "Dhoni",
+		"height" : "5 ft 11 in",
+		"role" : "WK-Batsman",
+		"batting style" : "Right Handed Bat",
+		"bowling style" : "Right-arm medium"
+	},
+	"bio" : "<p>Mahendra Singh Dhoni's arrival in Indian cricket and his subsequent rise has been a story of unprecedented success, punctuated by the occasional blip. Of all the players of the present generation, it is Dhoni who symbolizes the new India well. Aggressive without being brash, successful without being arrogant, and seemingly possessing a Midas touch, Dhoni is the perfect blend of a role-model and pin-up star.</p><p>Dhoni announced himself on the international stage with an array of almost agricultural shots and a bat that he wielded like an axe. In his fifth match, he smashed 148 off a Pakistan attack that didn't know what had hit them. Six months later, he went one better, to score a brutal 183 not out against Sri Lanka in an innings that made Virender Sehwag look snail-like. That innings also saw him break Adam Gilchrist's record for the highest score by a wicketkeeper in a One Day International.</p>Dhoni's arrival ended India's long search for a wicket-keeper who could also bat, and he now has the most number of dismissals in ODIs and Tests by an Indian keeper.</p><p>His growing stature and cool-headedness led to his appointment as India's captain for the inaugural T20 WC, where Dhoni's calm leadership steered India to victory. He then became the ODI captain after Rahul Dravid relinquished the post, and eventually, ascended to the full-time Test captaincy once Anil Kumble retired.</p>",
+	"profile_pic" : "images/players/dhoni-profile.jpg",
+	"cover_pic" : "images/players/dhoni-cover.jpg",
+	"batting_summary" : {
+		"Tests" : {
+			"m" : 90,
+			"inn" : 144,
+			"no" : 16,
+			"runs" : 4876,
+			"hs" : 224,
+			"avg" : 38.09,
+			"bf" : 8248,
+			"sr" : 59.12,
+			"_100" : 6,
+			"_200" : 1,
+			"_50" : 33,
+			"_4" : 544,
+			"_6" : 78,
+			"st" : 38
+		},
+		"ODI" : {
+			"m" : 275,
+			"inn" : 241,
+			"no" : 67,
+			"runs" : 8918,
+			"hs" : 183,
+			"avg" : 51.25,
+			"bf" : 9989,
+			"sr" : 89.28,
+			"_100" : 9,
+			"_200" : 0,
+			"_50" : 60,
+			"_4" : 691,
+			"_6" : 192,
+			"st" : 89
+		},
+		"T20I" : {
+			"m" : 68,
+			"inn" : 60,
+			"no" : 31,
+			"runs" : 1041,
+			"hs" : 48,
+			"avg" : 35.9,
+			"bf" : 854,
+			"sr" : 121.9,
+			"_100" : 0,
+			"_200" : 0,
+			"_50" : 0,
+			"_4" : 71,
+			"_6" : 32,
+			"st" : 21
+		},
+		"IPL" : {
+			"m" : 132,
+			"inn" : 118,
+			"no" : 41,
+			"runs" : 3011,
+			"hs" : 70,
+			"avg" : 39.1,
+			"bf" : 2156,
+			"sr" : 139.66,
+			"_200" : 0,
+			"_100" : 0,
+			"_50" : 15,
+			"_4" : 220,
+			"_6" : 127,
+			"st" : 24
+		}
+	},
+	"bowling_summary" : {
+		"Tests" : {
+			"m" : 90,
+			"inn" : 7,
+			"b" : 96,
+			"runs" : 67,
+			"wkts" : 0,
+			"bbi" : "1/0",
+			"bbm" : "1/0",
+			"ecom" : 4.19,
+			"avg" : 0,
+			"sr" : 0,
+			"w5" : 0
+		},
+		"ODI" : {
+			"m" : 275,
+			"inn" : 2,
+			"b" : 36,
+			"runs" : 31,
+			"wkts" : 1,
+			"bbi" : "14/1",
+			"bbm" : "14/1",
+			"ecom" : 5.17,
+			"avg" : 31,
+			"sr" : 36,
+			"w5" : 0
+		}
+	}
+}

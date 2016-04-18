@@ -1,0 +1,78 @@
+{
+	"name" : "Shikhar Dhawan",
+	"country" : "India",
+	"basic" : {
+		"born" : "Dec 05, 1985 (30 years)",
+		"birth place" : "Delhi",
+		"nickname" : "Dhawan",
+		"height" : "6 ft 0 in",
+		"role" : "Batsman",
+		"batting style" : "Left Handed Bat",
+		"bowling style" : "Right-arm offbreak"
+	},
+	"bio" : "<p>A solid and yet an attacking left-handed opener, Shikhar Dhawan has been one of the rocks of the Delhi top-order. Along with Gautam Gambhir and Virender Sehwag, he has been one of the consistent run-getters in the domestic circuit. He is rated quite highly by experts for his ability to dig in and play the big innings. His first big achievement was his 505 runs in the Under-19 World Cup in Bangladesh in 2004 for which he was named the player of the tournament.</p><p>Possessing all the shots in the book, Dhawan is strong on the cut and is a superb driver of the ball. His favorite shots are the off-drive and the straight drive, and is quite strong off his pads too.</p><p>Over the last couple of years, Dhawan's rise has been quite splendid. He was picked up by the Delhi franchise at the IPL's inaugural auction and in the next season he was traded off to Mumbai as Delhi swapped him with Ashish Nehra. When the next set of auctions took place, Hyderabad picked him up for $300,000.</p><p>Dhawan turned out to be a lone warrior for Hyderabad in the 2012 season quite often and he went on to top the batting charts for his side with 569 runs in 15 games at an average of 40.64, even though he lacked support from his mates at the other end.</p><p>He made his India debut in October 2010 but fell for a duck in his opening ODI against Australia. After a splendid 2011 IPL season, he was picked as the opener for the West Indies ODI series and again disappointed, scoring just 58 runs in three games. Though he did not perform well for India, his terrific domestic season with the bat in the 2012 season, where he scored three centuries, made him the next opener in waiting for the national side and he replaced an out-of-form Gambhir in the squad for the Tests against the visiting Australians.</p><p>Dhawan's debut against the Australians in March 2013 was nothing less than extraordinary. He scored the fastest century by a Test debutant off just 85 balls and also broke the long-held record of highest score by an Indian Test debutant held by Gundappa Viswanath by slamming 187.</p><p>Dhawan continued his fantastic form in the ODIs and emerged as the player of the tournament in the ICC Champions Trophy in June 2013. He scored 363 runs in just five games, including two centuries and a fifty. When Australia toured India in October 2013, Dhawan was relentless in his pursuit of runs as he slammed a ton and two fifties, finishing with 284 runs in six matches. He continued his good run in the home series against West Indies as well.</p><p>After returning from an injury in 2013, Dhawan returned to Hyderabad unit and provided the top-order with a much-needed boost in the IPL. He went on to score 311 runs in 10 innings. He was then named as captain of the Sunrisers prior to the start of the 2013 Champions League Twenty20.</p><p>In 2013, Dhawan scored over 1,100 runs to be amongst the top run-scorers in the year. He could have had more, but his form dipped as the year approached its fag end. In the 2014 Asia Cup, Dhawan scored a couple of fifties to become the highest run-getter for India. IPL franchise Hyderabad, alongside Dale Steyn, went on to retain him for the 2014 edition.</p>",
+	"profile_pic" : "images/players/dhawan-profile.jpg",
+	"cover_pic" : "images/players/dhawan-cover.jpg",
+	"batting_summary" : {
+		"Tests" : {
+			"m" : 131,
+			"inn" : 232,
+			"no" : 6,
+			"runs" : 11953,
+			"hs" : 400,
+			"avg" : 52.89,
+			"bf" : 19753,
+			"sr" : 60.51,
+			"_100" : 34,
+			"_200" : 9,
+			"_50" : 48,
+			"_4" : 1559,
+			"_6" : 88,
+			"st" : 0
+		},
+		"ODI" : {
+			"m" : 299,
+			"inn" : 289,
+			"no" : 30,
+			"runs" : 10405,
+			"hs" : 169,
+			"avg" : 40.17,
+			"bf" : 13086,
+			"sr" : 79.51,
+			"_100" : 19,
+			"_200" : 0,
+			"_50" : 63,
+			"_4" : 1035,
+			"_6" : 133,
+			"st" : 0
+		}
+	},
+	"bowling_summary" : {
+		"Tests" : {
+			"m" : 131,
+			"inn" : 4,
+			"b" : 60,
+			"runs" : 28,
+			"wkts" : 0,
+			"bbi" : "0/0",
+			"bbm" : "0/0",
+			"ecom" : 2.8,
+			"avg" : 0,
+			"sr" : 0,
+			"w5" : 0
+		},
+		"ODI" : {
+			"m" : 299,
+			"inn" : 5,
+			"b" : 49,
+			"runs" : 61,
+			"wkts" : 4,
+			"bbi" : "5/2",
+			"bbm" : "5/2",
+			"ecom" : 7.62,
+			"avg" : 15.25,
+			"sr" : 12.25,
+			"w5" : 0
+		}
+	}
+}

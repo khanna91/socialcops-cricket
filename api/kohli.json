@@ -1,0 +1,110 @@
+{
+	"name" : "Virat Kohli",
+	"country" : "India",
+	"basic" : {
+		"born" : "Nov 05, 1988 (27 years)",
+		"birth place" : "Delhi",
+		"nickname" : "Kohli",
+		"height" : "5 ft 9 in",
+		"role" : "Batsman",
+		"batting style" : "Right Handed Bat",
+		"bowling style" : "Right-arm medium"
+	},
+	"bio" : "<p>Born in Delhi, Virat Kohli shot into prominence as the Under-19 skipper, who led India to victory at the 2008 World Cup held in Malaysia. That accolade gained him instant recognition and made him an overnight teen sensation. Soon he made his ODI debut for India in Sri Lanka in August 2008 when he was thrust into the opener's role as both Virender Sehwag and Sachin Tendulkar were ruled out due to injuries. He played two important knocks - 37 in the second ODI and 54 in the fourth - both of which resulted in India winning, thereby enabling them to win the series as well. After such an impressive showing, he was slightly unlucky to remain on the bench when England visited India in December 2008, as Tendulkar and Sehwag had returned and the middle-order was strong and packed.</p><p>Kohli, however, was not disappointed and he went back to the domestic scene and continued to plunder attacks playing for Delhi. When India went to Australia to compete in the 2009 Emerging Players Tournament, Kohli shone brightly as he notched up a hundred in the final against South Africa. He finished as the top run-getter in the tournament, ending up with 398 runs from seven matches which included two centuries and two fifties. Due to his tremendous batting exploits, India managed to win that tournament and a new batting star was unearthed.</p><p>The season after 2009 turned to be a proving point for both Kohli and India. He got regular chances at the No.3 slot in the ODI team and he made the position his own with a string of consistent scores. He became the first Indian to score a century on World Cup debut when he smashed a ton against Bangladesh in India's first game of the 2011 World Cup. He went on to make a few more vital contributions - including an 83-run stand with Gautam Gambhir in the final - in India's successful World Cup campaign.</p>",
+	"profile_pic" : "images/players/kohli-profile.jpg",
+	"cover_pic" : "images/players/kohli-cover.jpg",
+	"batting_summary" : {
+		"Tests" : {
+			"m" : 164,
+			"inn" : 286,
+			"no" : 32,
+			"runs" : 13288,
+			"hs" : 270,
+			"avg" : 52.31,
+			"bf" : 31258,
+			"sr" : 42.51,
+			"_100" : 36,
+			"_200" : 5,
+			"_50" : 63,
+			"_4" : 1655,
+			"_6" : 21,
+			"st" : 0
+		},
+		"ODI" : {
+			"m" : 344,
+			"inn" : 318,
+			"no" : 40,
+			"runs" : 10889,
+			"hs" : 153,
+			"avg" : 39.17,
+			"bf" : 15284,
+			"sr" : 71.24,
+			"_100" : 12,
+			"_200" : 0,
+			"_50" : 83,
+			"_4" : 950,
+			"_6" : 42,
+			"st" : 14
+		},
+		"T20I" : {
+			"m" : 1,
+			"inn" : 1,
+			"no" : 0,
+			"runs" : 31,
+			"hs" : 31,
+			"avg" : 31,
+			"bf" : 21,
+			"sr" : 147.62,
+			"_100" : 0,
+			"_200" : 0,
+			"_50" : 0,
+			"_4" : 3,
+			"_6" : 0,
+			"st" : 0
+		},
+		"IPL" : {
+			"m" : 89,
+			"inn" : 82,
+			"no" : 5,
+			"runs" : 2174,
+			"hs" : 75,
+			"avg" : 28.23,
+			"bf" : 1882,
+			"sr" : 115.52,
+			"_200" : 0,
+			"_100" : 0,
+			"_50" : 11,
+			"_4" : 269,
+			"_6" : 28,
+			"st" : 0
+		}
+	},
+	"bowling_summary" : {
+		"Tests" : {
+			"m" : 164,
+			"inn" : 5,
+			"b" : 120,
+			"runs" : 39,
+			"wkts" : 1,
+			"bbi" : "18/1",
+			"bbm" : "18/1",
+			"ecom" : 1.95,
+			"avg" : 39,
+			"sr" : 120,
+			"w5" : 0
+		},
+		"ODI" : {
+			"m" : 344,
+			"inn" : 8,
+			"b" : 186,
+			"runs" : 170,
+			"wkts" : 4,
+			"bbi" : "43/2",
+			"bbm" : "43/2",
+			"ecom" : 5.48,
+			"avg" : 42.5,
+			"sr" : 46.6,
+			"w5" : 0
+		}
+	}
+}

@@ -1,0 +1,110 @@
+{
+	"name" : "Imran Tahir",
+	"country" : "South Africa",
+	"basic" : {
+		"born" : "March 27, 1979 (37 years)",
+		"birth place" : "South Africa",
+		"nickname" : "Tahir",
+		"height" : "5 ft 8 in",
+		"role" : "Bowler",
+		"batting style" : "Right Handed Bat",
+		"bowling style" : "Right-arm legbreak"
+	},
+	"bio" : "<p>Imran Tahir was born in Lahore, Pakistan. He learnt his trade in Pakistan. He even went on to represent the Pakistan U-19 team and was also a part of the Pakistan A side on some tours. However, he failed to make the transition to the next stage. Pakistan were blessed with some quality spinners and Tahir never really made his mark at the senior level to warrant a selection.</p><p>He was a wise man though. He decided to ply his trade elsewhere. He began playing county cricket in England but did not stay there for long. He made another jump, this time to South Africa. Another wise move, considering South Africa's perennial dearth of quality spinners. He even met his wife, a South African citizen of Indian origin, and settled down in South Africa.</p><p>He got his first call to the South African Test team in 2010 when England where touring, but it was due to an embarrassing error by the selection committee. Tahir was not eligible to play for South Africa until January, 2011. He was quickly withdrawn from the team then, but found his way back almost immediately after becoming eligible to play.</p><p>He was selected for the ODI series against India, but was never picked in the playing eleven. Skipper, Graeme Smith, preferred to keep him as a surprise weapon for the World Cup in the subcontinent soon after. He impressed immediately, picking 14 wickets in the five games he played. He remains as an attacking option for the captain and is waiting for his first Test cap, which should come pretty soon.</p><p>He made his Test debut against against Australia at Cape Town in November 2011 and since then, he has been a regular part of the squad. In the Test series against Pakistan in UAE in 2013, he was not picked for the first Test, but he came back strongly in the second by bagging a five-wicket haul on the first day of the Test match. Tahir was left out once again after one bad Test with the ball against India and was replaced by Robin Peterson, but he continued to do well in the shorter forms of the game. He was also the highest wicket-taker in the 2014 T20 World Cup, with 12 wickets at an average of 10.91. He continued to be a regular member of the South African side in all formats and played Test matches in spin-friendly conditions.</p>",
+	"profile_pic" : "images/players/tahir-profile.jpg",
+	"cover_pic" : "images/players/tahir-cover.jpg",
+	"batting_summary" : {
+		"Tests" : {
+			"m" : 90,
+			"inn" : 144,
+			"no" : 16,
+			"runs" : 4876,
+			"hs" : 224,
+			"avg" : 38.09,
+			"bf" : 8248,
+			"sr" : 59.12,
+			"_100" : 6,
+			"_200" : 1,
+			"_50" : 33,
+			"_4" : 544,
+			"_6" : 78,
+			"st" : 38
+		},
+		"ODI" : {
+			"m" : 275,
+			"inn" : 241,
+			"no" : 67,
+			"runs" : 8918,
+			"hs" : 183,
+			"avg" : 51.25,
+			"bf" : 9989,
+			"sr" : 89.28,
+			"_100" : 9,
+			"_200" : 0,
+			"_50" : 60,
+			"_4" : 691,
+			"_6" : 192,
+			"st" : 89
+		},
+		"T20I" : {
+			"m" : 68,
+			"inn" : 60,
+			"no" : 31,
+			"runs" : 1041,
+			"hs" : 48,
+			"avg" : 35.9,
+			"bf" : 854,
+			"sr" : 121.9,
+			"_100" : 0,
+			"_200" : 0,
+			"_50" : 0,
+			"_4" : 71,
+			"_6" : 32,
+			"st" : 21
+		},
+		"IPL" : {
+			"m" : 132,
+			"inn" : 118,
+			"no" : 41,
+			"runs" : 3011,
+			"hs" : 70,
+			"avg" : 39.1,
+			"bf" : 2156,
+			"sr" : 139.66,
+			"_200" : 0,
+			"_100" : 0,
+			"_50" : 15,
+			"_4" : 220,
+			"_6" : 127,
+			"st" : 24
+		}
+	},
+	"bowling_summary" : {
+		"Tests" : {
+			"m" : 90,
+			"inn" : 7,
+			"b" : 96,
+			"runs" : 67,
+			"wkts" : 0,
+			"bbi" : "1/0",
+			"bbm" : "1/0",
+			"ecom" : 4.19,
+			"avg" : 0,
+			"sr" : 0,
+			"w5" : 0
+		},
+		"ODI" : {
+			"m" : 275,
+			"inn" : 2,
+			"b" : 36,
+			"runs" : 31,
+			"wkts" : 1,
+			"bbi" : "14/1",
+			"bbm" : "14/1",
+			"ecom" : 5.17,
+			"avg" : 31,
+			"sr" : 36,
+			"w5" : 0
+		}
+	}
+}

@@ -1,0 +1,110 @@
+{
+	"name" : "Ravichandran Ashwin",
+	"country" : "India",
+	"basic" : {
+		"born" : "Sept 17, 1986 (29 years)",
+		"birth place" : "India",
+		"nickname" : "Ashwin",
+		"height" : "5 ft 7 in",
+		"role" : "Batsman",
+		"batting style" : "Right Handed Bat",
+		"bowling style" : "Right-arm offbreak"
+	},
+	"bio" : "<p>Ravichandran Ashwin, India's new spin-spearhead, is now the fastest cricketer in the history of Test cricket to have taken 75 wickets and amassed more than 500 runs. His heroics at Chepauk in the first Test (February 22 - 26, 2013) against Australia earned India a thumping win, also with it, his match figures of 12 for 198 gave him another milestone of becoming the first Indian to take a 10-wicket haul on his home ground.</p><p>Born on 17th September 1986, Ravichandran Ashwin had earlier captivated the Indian audiences with his bowling exploits in the shorter form of the game, but ever since his Test debut against West Indies in 2011, Ashwin has surprised one-and-all with his ability to pick up quality wickets and also sustain the pressure of filling in the boots of Harbhajan Singh, who has found it tough to get back into national colours.</p><p>The fact that he makes valuable contributions down the the order makes him almost a certainty for every match and he already has two Test hundreds (both against West Indies) apart from a few fifties. His batting was flawless even in Australia, where the top-order could never really get going in the 2011-12 series.</p><p>He made his debut for Tamil Nadu against Haryana in Chennai in the 2006-07 season. He has an impressive domestic record, having scalped 134 wickets in 34 appearances for Tamil Nadu. However, he has made a name for himself in the shorter formats of the game, more so in T20 cricket where his accuracy and shrewdness has made him a dependable bowler.</p><p>A consistent season at the domestic level earned Ashwin a grade 'D' contract with the BCCI. He also led Tamil Nadu to victory in the domestic one-day trophy in 2009. When Harbhajan opted out of the first two games against South Africa at home in early 2010, Ashwin was called in as his replacement. He did not get his chance then, but impressive performances for the Chennai franchise in the subsequent edition of the IPL meant that he was always knocking on the door. His chance finally arrived in June 2010 when India rested several of its stars for the tri-nation series featuring hosts Zimbabwe and Sri Lanka. He ended up with figures of 2/50 on his debut against Sri Lanka in Harare.</p>",
+	"profile_pic" : "images/players/ashwin-profile.jpg",
+	"cover_pic" : "images/players/ashwin-cover.jpg",
+	"batting_summary" : {
+		"Tests" : {
+			"m" : 168,
+			"inn" : 287,
+			"no" : 29,
+			"runs" : 13378,
+			"hs" : 257,
+			"avg" : 51.85,
+			"bf" : 22782,
+			"sr" : 58.72,
+			"_100" : 41,
+			"_200" : 6,
+			"_50" : 62,
+			"_4" : 1509,
+			"_6" : 73,
+			"st" : 0
+		},
+		"ODI" : {
+			"m" : 375,
+			"inn" : 365,
+			"no" : 39,
+			"runs" : 13704,
+			"hs" : 164,
+			"avg" : 42.04,
+			"bf" : 17046,
+			"sr" : 80.38,
+			"_100" : 30,
+			"_200" : 0,
+			"_50" : 82,
+			"_4" : 1231,
+			"_6" : 162,
+			"st" : 0
+		},
+		"T20I" : {
+			"m" : 17,
+			"inn" : 16,
+			"no" : 2,
+			"runs" : 401,
+			"hs" : 98,
+			"avg" : 28.64,
+			"bf" : 302,
+			"sr" : 132.78,
+			"_100" : 0,
+			"_200" : 0,
+			"_50" : 2,
+			"_4" : 41,
+			"_6" : 11,
+			"st" : 0
+		},
+		"IPL" : {
+			"m" : 10,
+			"inn" : 9,
+			"no" : 0,
+			"runs" : 91,
+			"hs" : 28,
+			"avg" : 10.11,
+			"bf" : 128,
+			"sr" : 71.09,
+			"_200" : 0,
+			"_100" : 0,
+			"_50" : 0,
+			"_4" : 5,
+			"_6" : 2,
+			"st" : 0
+		}
+	},
+	"bowling_summary" : {
+		"Tests" : {
+			"m" : 168,
+			"inn" : 36,
+			"b" : 587,
+			"runs" : 276,
+			"wkts" : 5,
+			"bbi" : "0/1",
+			"bbm" : "0/1",
+			"ecom" : 2.85,
+			"avg" : 55.2,
+			"sr" : 119.4,
+			"w5" : 0
+		},
+		"ODI" : {
+			"m" : 375,
+			"inn" : 6,
+			"b" : 150,
+			"runs" : 104,
+			"wkts" : 3,
+			"bbi" : "12/1",
+			"bbm" : "12/1",
+			"ecom" : 4.16,
+			"avg" : 34.67,
+			"sr" : 50,
+			"w5" : 0
+		}
+	}
+}

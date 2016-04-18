@@ -1,0 +1,18 @@
+{
+  "name": "socialcops",
+  "version": "1.0.0",
+  "description": "Assignment 2",
+  "main": "js/app.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rahul Khanna",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.5.3",
+    "angular-utils-pagination": "^0.11.1",
+    "ng-sanitize": "0.0.2",
+    "oclazyload": "^1.0.9",
+    "ui-utils": "^1.2.0"
+  }
+}

@@ -1,0 +1,145 @@
+[
+	{
+		"id" : 1,
+		"slug" : "sachin",
+		"name" : "Sachin Tendulkar",
+		"role" : "Batsman",
+		"born" : "April 24, 1973 (42 years)",
+		"height" : "5ft 5in",
+		"pic" : "images/players/sachin-profile.jpg",
+		"about" : "There are so many things that Sachin Tendulkar is to so many people, that it is sometimes forgotten that he is first and foremost a batsman of unparalleled ability, dedication and mind.",
+		"type" : ["test", "odi", "ipl", "t20"]
+	},
+
+	{
+		"id" : 2,
+		"slug" : "lara",
+		"name" : "Brian Lara",
+		"role" : "Batsman",
+		"born" : "May 02, 1969 (46 years)",
+		"height" : "5ft 8in",
+		"pic" : "images/players/lara-profile.jpg",
+		"about" : "A hero, a magician, an entertainer, a match-winner, a saviour, a leader, a tragic romantic, Brian Charles Lara, like a masterful actor, slipped in and out of several roles with effortless ease",
+		"type" : ["test", "odi"]
+	},
+
+	{
+		"id" : 3,
+		"slug" : "dravid",
+		"name" : "Rahul Dravid",
+		"role" : "Batsman",
+		"born" : "Jan 11, 1973 (43 years)",
+		"height" : "5ft 8in",
+		"pic" : "images/players/dravid-profile.jpg",
+		"about" : "If one ever needed someone to personify understated elegance, Rahul Dravid would be the perfect fit. His greatest contribution to India has been his performance in away-series.",
+		"type" : ["test", "odi", "ipl", "t20"]
+	},
+
+	{
+		"id" : 4,
+		"slug" : "dhoni",
+		"name" : "Mahendra Singh Dhoni",
+		"role" : "WK-Batsman",
+		"born" : "July 07, 1981 (34 years)",
+		"height" : "5ft 5in",
+		"pic" : "images/players/dhoni-profile.jpg",
+		"about" : "Mahendra Singh Dhoni's arrival in Indian cricket and his subsequent rise has been a story of unprecedented success, punctuated by the occasional blip.",
+		"type" : ["test", "odi", "ipl", "t20"]
+	},
+
+	{
+		"id" : 5,
+		"slug" : "ponting",
+		"name" : "Ricky Ponting",
+		"role" : "Batsman",
+		"born" : "Dec 19, 1974 (41 years)",
+		"height" : "5ft 8in",
+		"pic" : "images/players/ponting-profile.jpg",
+		"about" : "Ricky Thomas Ponting - a specialist right hander from Tasmania - is the highest run getter for Australia in both Tests and ODIs and is also their most successful captain.",
+		"type" : ["test", "odi", "ipl", "t20"]
+	},
+
+	{
+		"id" : 6,
+		"slug" : "gayle",
+		"name" : "Chris Gayle",
+		"role" : "Batsman",
+		"born" : "Sep 21, 1979 (36 years)",
+		"height" : "6ft 1in",
+		"pic" : "images/players/gayle-profile.jpg",
+		"about" : "Chris Gayle made his international debut for the West Indies against India in 1999, just 10 days short of his 20th birthday, and his Test debut soon after in 2000 against Zimbabwe.",
+		"type" : ["test", "odi", "ipl", "t20"]
+	},
+
+	{
+		"id" : 7,
+		"slug" : "kohli",
+		"name" : "Virat Kohli",
+		"role" : "Batsman",
+		"born" : "Nov 05, 1988 (27 years)",
+		"height" : "5ft 9in",
+		"pic" : "images/players/kohli-profile.jpg",
+		"about" : "Born in Delhi, Virat Kohli shot into prominence as the Under-19 skipper, who led India to victory at the 2008 World Cup held in Malaysia. That accolade gained him instant recognition and made him an overnight teen sensation.",
+		"type" : ["test", "odi", "ipl", "t20"]
+	},
+
+	{
+		"id" : 8,
+		"slug" : "rohit",
+		"name" : "Rohit Sharma",
+		"role" : "Batsman",
+		"born" : "April 30, 1987 (28 years)",
+		"height" : "5ft 7in",
+		"pic" : "images/players/rohit-profile.jpg",
+		"about" : "There are two facts about Rohit Sharma that have never been in doubt. Firstly, he is one of the most talented young batsmen that India has produced",
+		"type" : ["test", "odi", "ipl", "t20"]
+	},
+
+	{
+		"id" : 9,
+		"slug" : "ashwin",
+		"name" : "Ravichandran Ashwin",
+		"role" : "Bowler",
+		"born" : "Sep 17, 1986 (29 years)",
+		"height" : "5ft 7in",
+		"pic" : "images/players/ashwin-profile.jpg",
+		"about" : "Ravichandran Ashwin, India's new spin-spearhead, is now the fastest cricketer in the history of Test cricket to have taken 75 wickets and amassed more than 500 runs",
+		"type" : ["test", "odi", "ipl", "t20"]
+	},
+
+	{
+		"id" : 10,
+		"slug" : "starc",
+		"name" : "Mitchell Starc",
+		"role" : "Bowler",
+		"born" : "Jan 30, 1990 (26 years)",
+		"height" : "6ft 4in",
+		"pic" : "images/players/starc-profile.jpg",
+		"about" : "Mitchell Starc, a bustling left-arm swing bowler from Australia, was earmarked for success at a young age. He had a fine season with New South Wales in 2009-10 and he looked set to make his debut for his country.",
+		"type" : ["test", "odi", "ipl", "t20"]
+	},
+
+	{
+		"id" : 11,
+		"slug" : "tahir",
+		"name" : "Imran Tahir",
+		"role" : "Bowler",
+		"born" : "April 30, 1987 (28 years)",
+		"height" : "5ft 8in",
+		"pic" : "images/players/tahir-profile.jpg",
+		"about" : "Imran Tahir was born in Lahore, Pakistan. He learnt his trade in Pakistan. He even went on to represent the Pakistan U-19 team and was also a part of the Pakistan A side on some tours",
+		"type" : ["test", "odi", "ipl", "t20"]
+	},
+
+	{
+		"id" : 12,
+		"slug" : "dhawan",
+		"name" : "Shikhar Dhawan",
+		"role" : "Batsman",
+		"born" : "Dec 05, 1985 (30 years)",
+		"height" : "6ft 0in",
+		"pic" : "images/players/dhawan-profile.jpg",
+		"about" : "A solid and yet an attacking left-handed opener, Shikhar Dhawan has been one of the rocks of the Delhi top-order. Along with Gautam Gambhir and Virender Sehwag",
+		"type" : ["test", "odi", "ipl", "t20"]
+	}
+]

@@ -1,0 +1,78 @@
+{
+	"name" : "Brian Lara",
+	"country" : "West Indies",
+	"basic" : {
+		"born" : "May 02, 1969 (46 years)",
+		"birth place" : "Cantaro, Santa Cruz, Trinidad",
+		"nickname" : "Lara",
+		"height" : "5 ft 8 in",
+		"role" : "Batsman",
+		"batting style" : "Left Handed Bat",
+		"bowling style" : "Right-arm leg break"
+	},
+	"bio" : "<p>A hero, a magician, an entertainer, a match-winner, a saviour, a leader, a tragic romantic, Brian Charles Lara, like a masterful actor, slipped in and out of several roles with effortless ease. First thing's first, Lara will forever be remembered as one of the greatest batsmen of the modern era, bracketed alongside the elite company of Sachin Tendulkar, Ricky Ponting and Jacques Kallis.</p><p>Lara's wizardry and sheer style though would trump any batsman including the aforementioned troika. Another attribute that set him up as a cut above the rest was his voracious appetite for big, massive scores. Armed with a high backlift, generating that typical Caribbean flourish, Lara was equally efficient against spin and pace. Ask Shane Warne, Muttiah Muralitharan, Wasim Akram, Glenn McGrath and the rest of their breed.</p><p>Lara initially excelled in junior soccer and table tennis but cricket was his burning love. As a 15 year old lad at Fatima college in Port of Spain, Lara amassed as many as 7 three figure scores in a single season of the inter-school competition. Under-19 and first-class cricket followed suit. In only his second first-class encounter, the southpaw held fort for more than 300 minutes, compiling 92 against Trinidad and Tobago's sporting rivals - Barbados - in a sterling effort that defied the likes of Joel Garner and Malcom Marshall. </p>",
+	"profile_pic" : "images/players/lara-profile.jpg",
+	"cover_pic" : "images/players/lara-cover.jpg",
+	"batting_summary" : {
+		"Tests" : {
+			"m" : 131,
+			"inn" : 232,
+			"no" : 6,
+			"runs" : 11953,
+			"hs" : 400,
+			"avg" : 52.89,
+			"bf" : 19753,
+			"sr" : 60.51,
+			"_100" : 34,
+			"_200" : 9,
+			"_50" : 48,
+			"_4" : 1559,
+			"_6" : 88,
+			"st" : 0
+		},
+		"ODI" : {
+			"m" : 299,
+			"inn" : 289,
+			"no" : 30,
+			"runs" : 10405,
+			"hs" : 169,
+			"avg" : 40.17,
+			"bf" : 13086,
+			"sr" : 79.51,
+			"_100" : 19,
+			"_200" : 0,
+			"_50" : 63,
+			"_4" : 1035,
+			"_6" : 133,
+			"st" : 0
+		}
+	},
+	"bowling_summary" : {
+		"Tests" : {
+			"m" : 131,
+			"inn" : 4,
+			"b" : 60,
+			"runs" : 28,
+			"wkts" : 0,
+			"bbi" : "0/0",
+			"bbm" : "0/0",
+			"ecom" : 2.8,
+			"avg" : 0,
+			"sr" : 0,
+			"w5" : 0
+		},
+		"ODI" : {
+			"m" : 299,
+			"inn" : 5,
+			"b" : 49,
+			"runs" : 61,
+			"wkts" : 4,
+			"bbi" : "5/2",
+			"bbm" : "5/2",
+			"ecom" : 7.62,
+			"avg" : 15.25,
+			"sr" : 12.25,
+			"w5" : 0
+		}
+	}
+}

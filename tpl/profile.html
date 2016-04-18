@@ -1,0 +1,156 @@
+<div class="row profile-page">
+	<div class="col-xs-12 no-padding">
+		<div class="cover-img" ng-style="{'background-image': 'url(' + _profile.model.cover_pic + ')'}">
+			<div class="profile-section">
+				<img ng-src="{{ _profile.model.profile_pic }}" class="img-responsive img-thumbnail left" alt="">
+				<h1>{{ _profile.model.name }} <span>{{ _profile.model.country }}</span></h1>
+			</div>
+		</div>
+
+		<div class="row no-margin">
+			<div class="col-md-4" id="personal-information">
+				<h3>Personal Information</h3>
+				<div class="row" ng-repeat="(key, value) in _profile.model.basic track by $index">
+					<div class="col-xs-4">{{ key | capitalize }}</div>
+					<div class="col-xs-8">{{ value }}</div>
+				</div>
+			</div>
+			<div class="col-md-8" id="profile-detail">
+				<div class="panel">
+				  	<ul class="nav nav-tabs nav-tabs-simple">
+				    	<li class="active">
+				      		<a role="tab" data-toggle="tab" pg-tab href="#profile">Profile</a>
+				    	</li>
+				    	<li>
+				      		<a role="tab" data-toggle="tab" pg-tab href="#summary">Career Summary</a>
+				    	</li>
+				    	<li>
+				      		<a role="tab" data-toggle="tab" pg-tab href="#chart">Charts</a>
+				    	</li>
+				  	</ul>
+				  	<div class="tab-content">
+				    	<div class="tab-pane active" id="profile">
+				      		<div class="row">
+				        		<div class="col-md-12">
+				          			<div ng-bind-html="_profile.model.bio"></div>
+				        		</div>
+				      		</div>
+				    	</div>
+				    	<div class="tab-pane" id="summary">
+				      		<div class="row">
+				        		<div class="col-md-12">
+				        			<h3>Batting Summary</h3>
+				          			<div class="table-responsive">
+				          				<table class="table table-striped">
+				          					<thead>
+				          						<tr class="bg-master-lighter">
+				          							<th></th>
+				          							<th ui-jq="tooltip" data-placement="bottom" title="Matches Played">M</th>
+				          							<th ui-jq="tooltip" data-placement="bottom" title="No of Innings Batted">Inn</th>
+				          							<th ui-jq="tooltip" data-placement="bottom" title="No of Not Outs">NO</th>
+				          							<th ui-jq="tooltip" data-placement="bottom" title="No of Run Scored">Runs</th>
+				          							<th ui-jq="tooltip" data-placement="bottom" title="Highest Score">HS</th>
+				          							<th ui-jq="tooltip" data-placement="bottom" title="Batting Average">Avg</th>
+				          							<th ui-jq="tooltip" data-placement="bottom" title="No of Balls Faced">BF</th>
+				          							<th ui-jq="tooltip" data-placement="bottom" title="Batting Strike Rate">SR</th>
+				          							<th ui-jq="tooltip" data-placement="bottom" title="No of 100s scored">100</th>
+				          							<th ui-jq="tooltip" data-placement="bottom" title="No of 200s scored">200</th>
+				          							<th ui-jq="tooltip" data-placement="bottom" title="No of 50s scored">50</th>
+				          							<th ui-jq="tooltip" data-placement="bottom" title="No of 4s scored">4s</th>
+				          							<th ui-jq="tooltip" data-placement="bottom" title="No of 6s scored">6s</th>
+				          							<th ui-jq="tooltip" data-placement="bottom" title="No of Stumpings done">St</th>
+				          						</tr>
+				          					</thead>
+				          					<tbody>
+				          						<tr ng-repeat="(key, value) in _profile.model.batting_summary track by $index">
+				          							<td><strong>{{ key }}</strong></td>
+				          							<td>{{ value.m }}</td>
+				          							<td>{{ value.inn }}</td>
+				          							<td>{{ value.no }}</td>
+				          							<td>{{ value.runs }}</td>
+				          							<td>{{ value.hs }}</td>
+				          							<td>{{ value.avg }}</td>
+				          							<td>{{ value.bf }}</td>
+				          							<td>{{ value.sr }}</td>
+				          							<td>{{ value._100 }}</td>
+				          							<td>{{ value._200 }}</td>
+				          							<td>{{ value._50 }}</td>
+				          							<td>{{ value._4 }}</td>
+				          							<td>{{ value._6 }}</td>
+				          							<td>{{ value.st }}</td>
+				          						</tr>
+				          					</tbody>
+				          				</table>
+				          			</div>
+
+				          			<h3>Bowling Summary</h3>
+				          			<div class="table-responsive">
+				          				<table class="table table-striped">
+				          					<thead>
+				          						<tr class="bg-master-lighter">
+				          							<th></th>
+				          							<th ui-jq="tooltip" data-placement="bottom" title="Matches Played">M</th>
+				          							<th ui-jq="tooltip" data-placement="bottom" title="No of Innings Batted">Inn</th>
+				          							<th ui-jq="tooltip" data-placement="bottom" title="No of Balls Bowled">B</th>
+				          							<th ui-jq="tooltip" data-placement="bottom" title="No of Runs Conceded">Runs</th>
+				          							<th ui-jq="tooltip" data-placement="bottom" title="Wickets">Wkts</th>
+				          							<th ui-jq="tooltip" data-placement="bottom" title="best Bolling in Innings">BBI</th>
+				          							<th ui-jq="tooltip" data-placement="bottom" title="Best Bowling in Match">BBM</th>
+				          							<th ui-jq="tooltip" data-placement="bottom" title="Economy">Ecom</th>
+				          							<th ui-jq="tooltip" data-placement="bottom" title="Bowling Average">Avg</th>
+				          							<th ui-jq="tooltip" data-placement="bottom" title="Bowling Strike Rate">SR</th>
+				          							<th ui-jq="tooltip" data-placement="bottom" title="Five Wickets in a Innings">5W</th>
+				          						</tr>
+				          					</thead>
+				          					<tbody>
+				          						<tr ng-repeat="(key, value) in _profile.model.bowling_summary track by $index">
+				          							<td><strong>{{ key }}</strong></td>
+				          							<td>{{ value.m }}</td>
+													<td>{{ value.inn }}</td>
+													<td>{{ value.b }}</td>
+													<td>{{ value.runs }}</td>
+													<td>{{ value.wkts }}</td>
+													<td>{{ value.bbi }}</td>
+													<td>{{ value.bbm }}</td>
+													<td>{{ value.ecom }}</td>
+													<td>{{ value.avg }}</td>
+													<td>{{ value.sr }}</td>
+													<td>{{ value.w5 }}</td>
+				          						</tr>
+				          					</tbody>
+				          				</table>
+				          			</div>
+				        		</div>
+				      		</div>
+				    	</div>
+				    	<div class="tab-pane" id="chart">
+				      		<div class="row">
+				        		<div class="col-md-12">
+				        			<div class="alert alert-info">Due to limited data sources, these graphs are for illustration purposes only.</div>
+				        			<div class="panel">
+				        				<div class="panel-heading">
+				        					<h4>Batting - Runs per Innings</h4>
+				        				</div>
+				          				<div class="chart" id="batting-chart"></div>
+				          			</div>
+				          			<div class="panel">
+				        				<div class="panel-heading">
+				        					<h4>Bowling - Wickets per Innings</h4>
+				        				</div>
+				          				<div class="chart" id="bowling-chart"></div>
+				          			</div>
+				          			<div class="panel">
+				        				<div class="panel-heading">
+				        					<h4>Analysis of Wickets Taken by Batting Order</h4>
+				        				</div>
+				          				<div class="chart" id="wicket-chart"></div>
+				          			</div>
+				        		</div>
+				      		</div>
+				    	</div>
+				  	</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

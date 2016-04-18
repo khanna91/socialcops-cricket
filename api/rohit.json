@@ -1,0 +1,78 @@
+{
+	"name" : "Rohit Sharma",
+	"country" : "India",
+	"basic" : {
+		"born" : "April 30, 1987 (28 years)",
+		"birth place" : "Nagpur, Maharashtra",
+		"nickname" : "Rohit",
+		"height" : "5 ft 7 in",
+		"role" : "Batsman",
+		"batting style" : "Left Handed Bat",
+		"bowling style" : "Right-arm leg break"
+	},
+	"bio" : "<p>There are two facts about Rohit Sharma that have never been in doubt. Firstly, he is one of the most talented young batsmen that India has produced. Secondly, the talent is only coming through after a frustrating wait that lasted many years.</p><p>Hailed as the heir apparent to Sachin Tendulkar's No.4 spot in the Test batting line-up - he even hails from the same city and played with Tendulkar for Mumbai in the Ranji Trophy - Rohit's batting has had connoisseurs and experts alike shaking their heads with wonder at his balance and the time he has to play his shots, and in bewilderment at his continued failure on the big stage.</p><p>Numbers tell the story of Rohit well: He averages over 50 in First-Class cricket and has scored an unbeaten triple hundred (something that Tendulkar is yet to do). However, he is now reaping the rewards for some dogged work, Rohit has turned a new leaf ever since he was sent in as an opener in the shorter formats of the game.</p><p>Set against that are some performances that spoke undeniably about his talent - for instance against Australia in Australia, in just his third international series, Rohit came up with some crucial cameos and composed fifties under pressure in the CB series in 2008. The other team in the series was Sri Lanka - who had no mean bowling attack - and Rohit impressed everyone with his batting.</p><p>That performance earned him an extended lease in the Indian team for both ODIs and Twenty20s. However, his subsequent performances didn't match up to that level at all (his average was a pedestrian 22 and his strike rate was below 70) and he failed to cement a place in the side. His inconsistency kept him out of the 2011 World Cup squad.</p>",
+	"profile_pic" : "images/players/rohit-profile.jpg",
+	"cover_pic" : "images/players/rohit-cover.jpg",
+	"batting_summary" : {
+		"Tests" : {
+			"m" : 131,
+			"inn" : 232,
+			"no" : 6,
+			"runs" : 11953,
+			"hs" : 400,
+			"avg" : 52.89,
+			"bf" : 19753,
+			"sr" : 60.51,
+			"_100" : 34,
+			"_200" : 9,
+			"_50" : 48,
+			"_4" : 1559,
+			"_6" : 88,
+			"st" : 0
+		},
+		"ODI" : {
+			"m" : 299,
+			"inn" : 289,
+			"no" : 30,
+			"runs" : 10405,
+			"hs" : 169,
+			"avg" : 40.17,
+			"bf" : 13086,
+			"sr" : 79.51,
+			"_100" : 19,
+			"_200" : 0,
+			"_50" : 63,
+			"_4" : 1035,
+			"_6" : 133,
+			"st" : 0
+		}
+	},
+	"bowling_summary" : {
+		"Tests" : {
+			"m" : 131,
+			"inn" : 4,
+			"b" : 60,
+			"runs" : 28,
+			"wkts" : 0,
+			"bbi" : "0/0",
+			"bbm" : "0/0",
+			"ecom" : 2.8,
+			"avg" : 0,
+			"sr" : 0,
+			"w5" : 0
+		},
+		"ODI" : {
+			"m" : 299,
+			"inn" : 5,
+			"b" : 49,
+			"runs" : 61,
+			"wkts" : 4,
+			"bbi" : "5/2",
+			"bbm" : "5/2",
+			"ecom" : 7.62,
+			"avg" : 15.25,
+			"sr" : 12.25,
+			"w5" : 0
+		}
+	}
+}

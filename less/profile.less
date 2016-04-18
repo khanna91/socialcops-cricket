@@ -1,0 +1,102 @@
+.cover-img {
+	background: #F2F2F2;
+	height: 250px;
+	width: 100%;
+	background-size: cover;
+	background-position: center center;
+	position: relative; 
+}
+
+.profile-section {
+	position: absolute;
+    bottom: -75px;
+    left: 40px;
+    width: 80%;
+    z-index: 10;
+
+    img {
+    	width: 150px;
+		margin-right: 20px;
+    }
+
+    h1 {
+    	color: #FFF;
+
+    	span {
+    		font-size: 14px;
+    	}
+    }
+}
+
+#personal-information {
+	padding-top: 75px;
+
+	.row {
+		margin-bottom: 10px;
+
+		.col-xs-4 {
+			font-weight: 700;		
+		}
+	}
+}
+
+#profile-detail {
+	z-index: 20;
+	border-left: 1px #F2F2F2 solid;
+}
+
+.chart {
+	width: 100%;
+	height: 400px;
+	font-size: 14px;
+}
+
+.error {
+	text-align: center;
+	padding: 100px 0;
+	h1 {
+		font-size: 72px;
+	}
+}
+
+@media only screen and (max-width : 768px) {
+	.cover-img {
+		height: 100px;
+	}
+
+	.profile-section {
+		position: relative;
+	    width: auto;
+	    left: 0px;
+	    padding-left: 10px;
+
+	    img {
+	    	width: 80px;
+	    	margin-right: 10px;
+	    }
+
+	    h1 {
+	    	font-size: 22px;
+		    color: #000;
+		    padding-top: 46px;
+	    }
+	}
+
+	#personal-information {
+		padding-top: 50px;
+
+		h3 {
+			font-size: 16px;
+		}
+	}
+
+	#chart {
+		.col-md-12 {
+			padding: 0;
+
+			.chart {
+				height: 300px;
+			}
+		}
+	}
+}
